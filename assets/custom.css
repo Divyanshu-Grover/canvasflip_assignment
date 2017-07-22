@@ -1,0 +1,267 @@
+.body{
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+.main-section{
+	background: #f4f6fa;
+}
+
+.head-section{
+	background: #f4f6fa;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Montserrat', sans-serif !important;
+    font-weight: bold !important;
+    color: #373c46 !important;
+    line-height: initial !important;
+}
+
+.logo{
+	margin-top: 5.5%;
+	margin-bottom: 5.5%;
+	margin-left: 5%;
+}
+
+.main-heading-box{
+	margin-left: 10%;
+	margin-top: 12%;
+}
+
+.main-box-text{
+	color: #9da6b8;
+	font-weight: 300;
+	font-size: 2rem;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 3.2rem;
+	margin-top: 3%;
+}
+
+.get-now-btn{
+		font-family: 'Montserrat', sans-serif;
+	    transition: all 0.5s;
+	    border: none;
+	    width: 180px;
+	    font-size: 13px;
+	    height: 48px;
+	    color: #fff;
+	    border-radius: 50px;
+	    background-color: #6c63ff;
+	    font-weight: bold;
+	    cursor: pointer;
+	    box-shadow: 0 3px 15px 0 rgba(0,0,0,.25);
+	    margin: 14px 0;
+	}
+	
+.get-now-btn:focus, .get-now-btn:hover{
+	background: white;
+	color: #4700ee;
+
+}
+
+.main-box-small-text{
+	font-size: 1.2rem;
+	color: #9da6b8;
+	margin-bottom: 10%;
+}
+
+.main-section-img-container{
+	/*position: absolute;*/
+}
+
+.img-back-main-section{
+	width: 723px;
+}
+
+.img-front-main-section{
+	position: absolute;
+	width: 370px;
+	left: 170px;
+	top: -60px;	
+/*		-webkit-transform: translate3d(0px, 55.3586px, 0px);
+    -moz-transform: translate3d(0px, 55.3586px, 0px);
+    -o-transform: translate3d(0px, 55.3586px, 0px);
+    -ms-transform: translate3d(0px, 55.3586px, 0px);
+    transform: translate3d(0px, 55.3586px, 0px);*/
+	/*transform: translate3d(0px, 55.3586px, 0px);*/
+}
+
+.inspect-section{
+	background: white;
+}
+
+.inspect-icon{
+	margin-bottom: 5.5%;
+	
+}
+
+.inspect-text-section{
+	margin-top: 15%;
+	margin-left: 4%;
+}
+
+.inspect-heading-text{
+	font-size: 1.5em;
+}
+
+.inspect-box-text{
+	color: #9da6b8;
+	font-weight: 300;
+	font-size: 1.6rem;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 2.7rem;
+	margin-top: 3%;
+}
+
+.inspect-image-back{
+	width:522px;
+}
+
+.inspect-image-front{
+	position: absolute;
+	width: 400px;
+	top: 21px;
+	left: 350px;
+}
+
+.inspect-image-container{
+	margin-top: 8%;
+}
+
+.browse-section{
+	margin-top: 10%;
+}
+
+.browse-image-container{
+
+}
+
+.browse-image-back{
+	width: 450px;
+	position: absolute;
+	left: 230px;
+	top: -50px;
+}
+
+.browse-image-front{
+	position: absolute;
+	width: 400px;
+	left: 51px;
+	top:-25px;
+
+}
+
+.browser-text-container{
+	margin-top: 8%;
+}
+
+.export-section{
+	margin-top: 15%;
+}
+
+.export-text-section{
+	margin-top: 15%;
+	margin-left: 4%;
+}
+
+.export-box-text{
+	color: #9da6b8;
+	font-weight: 300;
+	font-size: 1.6rem;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 2.7rem;
+	margin-top: 3%;
+}
+
+.export-image-container{
+
+}
+
+.export-image-front{
+	position: absolute;
+	width: 400px;
+	top: 100px;
+	left: 330px;
+}
+
+.export-image-back{
+	position: absolute;
+	width: 450px;
+    left: 100px;
+    top: 77px;
+}
+
+.twitter-section{
+	margin-top: 30%;
+}
+
+.twitter-section-content{
+	margin-left: 5%;
+}
+
+.more-text-twitter-section{
+    font-size: 15px;
+    margin-left: 35%;
+    color: #1b95e0;
+}
+
+.feature-section{
+	margin-top: 10%;
+}
+
+.featured-text-heading{
+	margin-left: 43%;
+	text-transform: uppercase;
+	font-size: 1.2rem;
+	text-align: center;
+	transform: translateX(-50%);
+	font-family: 'Open Sans', sans-serif;
+    font-size: 1.6rem;
+    line-height: 2.7rem;
+    color: #9da6b8;
+    font-weight: 300;
+}
+
+.featured-image{
+	margin-left: 3.5%;
+}
+.try-section{
+	background: #f4f6fa;
+	margin-top: 5%;
+}
+
+.try-now-text{
+	text-align: center;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.try-box-text{
+	color: #9da6b8;
+	font-weight: 300;
+	font-size: 1.6rem;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 2.7rem;
+	margin-top: 3%;
+}
+
+.footer-section{
+	background: white;
+}
+
+.footer-logo{
+	margin-left: 12%;
+}
+
+.footer-content{
+	margin-left: 5%;
+	margin: 3% 0;
+}
+.footer-text{
+	font-family: 'Open Sans', sans-serif;
+    font-size: 1.6rem;
+    line-height: 2.7rem;
+    color: #9da6b8;
+    font-weight: 300;
+}
